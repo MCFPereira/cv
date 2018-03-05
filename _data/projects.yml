@@ -2,31 +2,31 @@
   description: "Selected projects from contributions"
 
 - project:
-  title:
-  link:
-  tagline:
+  title: Title
+  link: "website link"
+  tagline: "done this and that"
   keys: C++
 
 - project:
-  title:
-  link:
-  tagline:
+  title: Title
+  link: "website link"
+  tagline: "done this and that"
   keys: Python
 
 - project:
-  title:
-  link:
-  tagline:
+  title: Title
+  link: "website link"
+  tagline: "done this and that"
   keys: C++, C
 
 - project:
-  title:
-  link:
-  tagline:
+  title: Title
+  link: "website link"
+  tagline: "done this and that"
   keys: Linux, C, Python, MATLAB
 
 - project:
-  title:
-  link:
-  tagline:
+  title: Title
+  link: "website link"
+  tagline: "done this and that"
   keys: C++
