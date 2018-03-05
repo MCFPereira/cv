@@ -1,6 +1,6 @@
 # Site Settings
-title: RKI Resume
-url: 'http://rkiyengar.github.io'
+title: Curriculum vitæ
+url: 'https://mcfpereira.github.io'
 baseurl: '/cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -11,17 +11,16 @@ baseurl: '/cv' #change it according to your repository name
 style: styles-6
 
 #Profile information
-name: Rashmi Keshava Iyengar
-tagline: Data Scientist | Software Engineer
-pic: rki.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Industry experience as a software engineer in the mobile computing and embedded systems space. Self-directed
-study in data science. Pro bono work in civic data analytics.'
+name: M Carolina F. Pereira S.
+tagline: Physicist | Data Scientist
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: ''
 
 #sidebar links
-email: rashmi.k.iyengar@gmail.com
-skype: rashmiki
-linkedin: rkiyengar
-github: rkiyengar
+email: carolfigueirinhas@gmail.com
+skype: carolinafigueirinhas
+linkedin: mcfpereira
+github: mcfpereira
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
