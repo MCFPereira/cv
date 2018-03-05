@@ -1,0 +1,43 @@
+- experience:
+  role: Data Scientist | Software Engineer
+  time: May 2015 - Present
+  company: Sabbatical | San Diego Regional Data Library, San Diego
+  details: "Self-directed study in data science covering statistics, data analysis, data
+  visualization, machine learning and deep learning.
+  <br> <br>
+  Pro bono work analyzing and visualizing open datasets catering to the data needs of
+  non-profits among other civic orgs/startups"
+- experience:
+  role: Staff Software Engineer, Qualcomm Research
+  time: Jan 2004 - Apr 2015
+  company: Qualcomm, San Diego
+  details: "System architecture/design and software implementations of algorithmic solutions
+  to problems in the mobile computing and embedded systems space. Work comprised of research,
+  proof-of-concept prototyping, commercial and reference software design & development for
+  multiple Qualcomm Snapdragon chipsets/solutions, technical and team leadership."
+- experience:
+  role: Engineering Intern, Qualcomm Research
+  time: Sep 2003 - Dec 2004
+  company: Qualcomm, San Diego
+  details: "Embedded software design & development for broadcast/multicast services on the 3G
+  cellular access network"
+- experience:
+  role: Research Assistant, Real-time Embedded Systems Lab
+  time: Mar 2002 - Sep 2003
+  company: Arizona State University, Tempe
+  details: "Research (real-time communication), embedded systems design and software development
+  for an avionics research project investigating the safety and certification approaches for
+  Ethernet based aviation data buses."
+- experience:
+  role: Programer, Artificial Intelligence Lab
+  time: Jan 2001 - Mar 2002
+  company: Arizona State University, Tempe
+  details: "Research, software design and development as part of an effort to provide navigational aid
+  using Geo-spatial information encapsulated in MIML (Maritime Information Markup Language), an XML-based
+  markup language."
+- experience:
+  role: Software Engineer, Philips Innovation Center
+  time: Feb 2000 - Dec 2000
+  company: Philips, Bangalore
+  details: "Embedded software design and development for the first-generation Philips DVD Recorder
+  in the consumer electronics space"

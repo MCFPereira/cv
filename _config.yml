@@ -1,1 +1,35 @@
-theme: jekyll-theme-minimal
+# Site Settings
+title: RKI Resume
+url: 'http://rkiyengar.github.io'
+baseurl: '/cv' #change it according to your repository name
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+style: styles-6
+
+#Profile information
+name: Rashmi Keshava Iyengar
+tagline: Data Scientist | Software Engineer
+pic: rki.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'Industry experience as a software engineer in the mobile computing and embedded systems space. Self-directed
+study in data science. Pro bono work in civic data analytics.'
+
+#sidebar links
+email: rashmi.k.iyengar@gmail.com
+skype: rashmiki
+linkedin: rkiyengar
+github: rkiyengar
+#Update all the sections by editing the files inside _data folder.
+
+# Tracker
+analytics: UA-83979019-1
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development

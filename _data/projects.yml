@@ -1,0 +1,35 @@
+- intro:
+  description: "Selected projects from contributions in the mobile computing, embedded systems and data science
+  domains"
+
+- project:
+  title: Snapdragon Transport Accelerator
+  link: "#https://www.qualcomm.com/news/onq/2014/04/02/dash-its-happening-all-around-you"
+  tagline: "A suite of algorithms embedded in the Http stack (Android Chromium), aimed at boosting the
+  performance of OTT media streaming clients, as part the MSM8K chipset commercial software."
+  keys: C++, Android, Chromium, Transport Protocols (HTTP/TCP/IP)
+- project:
+  title: Age Friendly Communities
+  link: "#http://www.sandiegodata.org/2016/12/age-friendly-communities/"
+  tagline: "Data exploration, analysis and visualization for CARR (Consumer Advocates for RCFE Reform),
+  a non-profit advocating policy related to elder care facilities."
+  keys: Python, Data Analysis, Tableau
+- project:
+  title: FSM98XX (Small Cell) Modem Bringup and Commercial Software
+  link: "#https://www.qualcomm.com/news/releases/2011/09/12/qualcomm-announces-industrys-highest-capacity-femtocell-solution-enterprise"
+  tagline: "Bit-exact verification of 3G modem hardware functional blocks, firmware rewrites to support MPS (minimum
+  performance spec) compliance, as part of Qualcomm's first enterprise femto cell commerical product."
+  keys: C++, C, VxWorks, Linux, JTAG, Firmware
+- project:
+  title: Mobile Device (CPU/GPU) Power Estimation and Modeling (via statistical analysis)
+  link: "#"
+  tagline: "Linux kernel modules to extract and transport ARM CPU performance monitoring, thermal sensor among
+  other profiling and diagnostics data for power estimation and modeling. Android application to display real-time
+  power consumption of hardware blocks intended as a digital power meter."
+  keys: Linux, Device Drivers, Android, C, Python, MATLAB, Data Analysis, Machine Learning, ASIC Architecture 
+- project:
+  title: CDMA EVDO Broadcast/Multicast Service (BCMCS)
+  link: "#https://www.3gpp2.org/Public_html/Specs/C.S0077-0%20v1.0%20_060501.pdf"
+  tagline: "A comprehensive set of software components in Linux userspace implementing the air-interface protocols 
+  for CDMA BCMCS and the full functionality as outlined by the CDMA BCMCS standard."
+  keys: Linux (userspace), C++, XML, RPC

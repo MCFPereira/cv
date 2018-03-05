@@ -1,0 +1,12 @@
+- skill:
+  name: Python 
+  level: 75%
+- skill:
+  name: R
+  level: 65%
+- skill:
+  name: C++
+  level: 90%
+- skill:
+  name: C
+  level: 90%
