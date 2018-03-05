@@ -1,9 +1,15 @@
 - language:
+  idiom: Portuguese
+  level: Native
+- language:
   idiom: English
   level: Native
 - language:
-  idiom: Hindi
-  level: Limited 
+  idiom: Spanish
+  level: Good
 - language:
-  idiom: Kannada
-  level: Native
+  idiom: French
+  level: Limited
+  - language:
+  idiom: Italian
+  level: Limited 
