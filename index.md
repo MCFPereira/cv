@@ -21,7 +21,7 @@ Edinburgh, UK
 
 **Bold** and _Italic_ and `Code` text
 
-[Photo](https://static.ph.ed.ac.uk/photos/people/s1460633.jpg)
+![Photo](https://static.ph.ed.ac.uk/photos/people/s1460633.jpg)
 
 
 First Header | Second Header
