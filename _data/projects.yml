@@ -1,32 +1,22 @@
 - intro:
-  description: "Selected projects from contributions"
+  description: "Publications"
 
 - project:
-  title: Title
+  title: Predictive models for 3D chromosome organization: the transcription factor and diffusive loop extrusion models.
   link: "website link"
-  tagline: "done this and that"
-  keys: C++
+  tagline: "Book chapter"
 
 - project:
-  title: Title
-  link: "website link"
-  tagline: "done this and that"
-  keys: Python
+  title: Entropic elasticity and dynamics of the bacterial chromosome: a simulation study.
+  link: "https://arxiv.org/abs/1703.06067"
+  tagline: "J. Chem. Phys. 147, 044908 (2017)"
 
 - project:
-  title: Title
-  link: "website link"
-  tagline: "done this and that"
-  keys: C++, C
+  title: Wetting of cholesteric liquid crystals.
+  link: "https://arxiv.org/pdf/1507.04510.pdf"
+  tagline: "Eur. Phys. J. E 39, 13 (2016)"
 
 - project:
-  title: Title
-  link: "website link"
-  tagline: "done this and that"
-  keys: Linux, C, Python, MATLAB
-
-- project:
-  title: Title
-  link: "website link"
-  tagline: "done this and that"
-  keys: C++
+  title: Structure of the cholesteric-isotropic interface.
+  link: "http://pubs.rsc.org/en/content/articlelanding/2014/sm/c4sm01857e#!divAbstract"
+  tagline: "Soft Matter 10, 9399 (2014)"

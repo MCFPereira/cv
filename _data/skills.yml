@@ -11,5 +11,41 @@
   name: Java
   level: 90%
 - skill:
+  name: Fortran
+  level: 90%
+- skill:
+  name: Bash script
+  level: 90%
+- skill:
+  name: HTML
+  level: 90%
+- skill:
+  name: Molecular Dynamics Software: LAMMPS
+  level: 90%
+- skill:
+  name: Genetics Data retrieving from data bases such as the ENCODE project.
+  level: 90%
+- skill:
+  name: Data analysis and Bioinformatics.
+  level: 80%
+- skill:
+  name: Image manipulation: VMD, Adobe Photoshop, Krita.
+  level: 80%
+- skill:
+  name: Text edition: Latex, Microsoft Office Suite
+  level: 80%
+- skill:
+  name: Operating Systems: Linux, Mac OS X, Windows
+  level: 80%
+- skill:
+  name: Public engagement activities in Science Festivals and Schools
+  level: 80%
+- skill:
+  name: Writing and presenting reports and posters
+  level: 80%
+- skill:
+  name: Fluency in English and Portuguese (native language)
+  level: 80%
+- skill:
   name: Education
   level: 80%
