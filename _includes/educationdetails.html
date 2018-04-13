@@ -1,21 +1,14 @@
 {% if site.data.educationdetails %}
 <section class="section educationdetails-section">
   <h2 class="section-title"><i class="fa fa-briefcase"></i>Education</h2>
-
 {% for education in site.data.educationdetails %}
   <div class="item">
-
     <div class="meta">
-
       <div class="upper-row">
         <h3 class="degree">{{ education.degree }}</h3>
         <p>{{ education.degree }}</p>
       </div><!--//upper-row-->
-
     </div><!--//meta-->
-
   </div><!--//item-->
-{% endfor %}
-
 </section><!--//section-->
 {% endif %}
