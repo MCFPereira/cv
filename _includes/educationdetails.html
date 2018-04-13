@@ -8,20 +8,20 @@
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="degree">{{ educationdetails.degree }}</h3>
-        <div class="  Thesis Title">{{ educationdetails.thesis }}</div>
+        <h3 class="degree">{{ education.degree }}</h3>
+        <div class="  Thesis Title">{{ education.thesis }}</div>
       </div><!--//upper-row-->
 
-      <div class="Brief Synopsis of Research">{{ educationdetails.brief }}</div>
-      <div class="Research Interests">{{ educationdetails.interests }}</div>
-      <div class="Modules included">{{ educationdetails.modules }}</div>
-      <div class="Final Project Title">{{ educationdetails.project }}</div>
+      <div class="Brief Synopsis of Research">{{ education.brief }}</div>
+      <div class="Research Interests">{{ education.interests }}</div>
+      <div class="Modules included">{{ education.modules }}</div>
+      <div class="Final Project Title">{{ education.project }}</div>
 
     </div><!--//meta-->
 
-    {% if educationdetails.details %}
+    {% if education.details %}
     <div class="details">
-      <p>{{ educationdetails.details }}</p>
+      <p>{{ education.details }}</p>
     </div><!--//details-->
     {% endif %}
 
