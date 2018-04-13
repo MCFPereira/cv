@@ -9,23 +9,10 @@
 
       <div class="upper-row">
         <h3 class="degree">{{ education.degree }}</h3>
-        <div class="  Thesis Title">{{ education.thesis }}</div>
+        <p>{{ education.degree }}</p>
       </div><!--//upper-row-->
 
-      <div class="Brief Synopsis of Research">{{ education.brief }}</div>
-      <div class="Supervisor">{{ education.supervisor }}</div>
-
-      <div class="Research Interests">{{ education.interests }}</div>
-      <div class="Modules included">{{ education.modules }}</div>
-      <div class="Final Project Title">{{ education.project }}</div>
-
     </div><!--//meta-->
-
-    {% if education.brief %}
-    <div class="Brief Synopsis of Research">
-      <p>{{ education.brief }}</p>
-    </div><!--//brief-->
-    {% endif %}
 
   </div><!--//item-->
 {% endfor %}
