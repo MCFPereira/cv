@@ -1,24 +1,14 @@
 - education:
 - degree: PhD
-
   thesis: ''' Thesis Title''' - A simulation perspective on DNA condensation in bacterial and human cells. (Funded by EPSRC through the CM-CDT)
-
   supervisor: '''Supervisor''' - Prof. D. Marenduzzo
-
   brief: '''Brief Synopsis of Research''' - DNA isolated in its thread-like form can be two to three orders of magnitude longer than the cell in which it is embedded. Despite numerous studies into cellular processes, the mechanisms that lead to the condensation of DNA molecules are still not fully understood. We developed a coarse-grained polymer physics model to study the condensation of chromosomes in two different systems - bacterial and human tissue cells.
-
   interests: '''Research Interests''' - My current research aims at understanding the mechanisms responsible for the large-scale DNA folding and structure.
 
-
 - degree: MSc, First-class Honours.
-
   thesis: ''' Thesis Title''' - Wetting of cholesteric liquid crystals, graded as 18/20.
-
   modules: '''Modules included''' - Object-Oriented Programming, Dynamical Systems, Criticality and Complex Systems, Advanced Laboratory of Condensed Matter, Nanophysics.
 
-
 - degree: BSc, First-class Honours.
-
   project: '''Final Project Title''' - Avalanches as a SOC system, graded as 17/20.
-
   modules: '''Modules included''' - Fundamentals of Programming, Computational Physics, Numerical Methods, Statistical Physics, Condensed Matter Physics, Continuum Mechanics.
