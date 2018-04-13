@@ -3,10 +3,16 @@
   <h2 class="section-title"><i class="fa fa-briefcase"></i>Education</h2>
 
   {% for education in site.data.educationdetails %}
+    <div class="item">
+    <div class="meta">
+    <div class="upper-row">
   <div class="education">
       <p>{{ education.degree }}</p>
   </div><!--//intro-->
-  {% endfor%}
+  </div><!--//upper-row-->
+  </div><!--//meta-->
+  </div><!--//item-->
+{% endfor%}
 
 </section><!--//section-->
 {% endif %}
