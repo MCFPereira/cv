@@ -2,12 +2,12 @@
   description: "Publications"
 
 - project:
-  title: Predictive models for 3D chromosome organization: the transcription factor and diffusive loop extrusion models.
+  title: Predictive models for 3D chromosome organization, the transcription factor and diffusive loop extrusion models.
   link: "website link"
   tagline: "Book chapter"
 
 - project:
-  title: Entropic elasticity and dynamics of the bacterial chromosome: a simulation study.
+  title: Entropic elasticity and dynamics of the bacterial chromosome, a simulation study.
   link: "https://arxiv.org/abs/1703.06067"
   tagline: "J. Chem. Phys. 147, 044908 (2017)"
 
